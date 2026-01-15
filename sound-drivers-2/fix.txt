@@ -1,0 +1,2 @@
+sudo cp * /lib/firmware/intel/sof-ipc4-tplg/
+

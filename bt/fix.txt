@@ -1,0 +1,1 @@
+sudo cp ibt-0190-0291-usb.sfi /usr/lib/firmware/intel 

@@ -1,0 +1,2 @@
+sudo cp *.conf /usr/share/alsa/ucm2/sof-soundwire/
+
